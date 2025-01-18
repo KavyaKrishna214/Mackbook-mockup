@@ -12,7 +12,7 @@ MacBook mockups are indispensable tools for presenting your designs in a profess
 - **Save Time:** Avoid the hassle of creating mockups from scratch.  
 - **Boost Credibility:** Showcase your work in realistic and relatable contexts.  
 
-If you're looking for **top-quality MacBook mockups**, we've got you covered! Check out our extensive collection on [Mockupdaddy.com](https://www.mockupdaddy.com/Macbook-mockup).
+If you're looking for **top-quality MacBook mockups**, we've got you covered! Check out our extensive collection on [Mockupdaddy](https://www.mockupdaddy.com/).
 
 ![Santa-claus-using-MacBook-mockup-MD](https://github.com/user-attachments/assets/1b23de18-a4a1-4454-bbc0-dd3bc7e4ea79)
 
@@ -51,6 +51,6 @@ Feel free to suggest additional resources or links to other high-quality MacBook
 
 ## Let’s Connect! 🌐  
 
-Visit [Mockupdaddy.com](https://www.mockupdaddy.com) for a wide range of mockups, including **MacBook mockups**, T-shirt mockups, and more.  
+Visit [Mockupdaddy](https://www.mockupdaddy.com) for a wide range of mockups, including **MacBook mockups**, T-shirt mockups, and more.  
 
 If you find this repository helpful, please give it a ⭐ and share it with your peers!
